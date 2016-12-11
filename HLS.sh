@@ -1,6 +1,4 @@
 #!/bin/bash
-#url=https://oss-cn-hangzhou.aliyuncs.com/function-public-hls/CT/PromotionalFilm/beautiful_xishuangbanna.m3u8
-#url_prefix=https://oss-cn-hangzhou.aliyuncs.com/function-public-hls/CT/PromotionalFilm/
 url=http://devimages.apple.com/iphone/samples/bipbop/gear1/prog_index.m3u8
 url_prefix=http://devimages.apple.com/iphone/samples/bipbop/gear1/
 declare -a sliceList
