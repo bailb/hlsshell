@@ -1,4 +1,4 @@
-# http-proxy
+# hlsdownloader
 A simple script to download HLS video.
 
 URL & urlPrefix that you should replace with your "url and prefix".
